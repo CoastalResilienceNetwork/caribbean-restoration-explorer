@@ -165,7 +165,7 @@ define([
 				showServiceLayersInLegend: true,
 				allowIdentifyWhenActive: true,
 				_hasactivated: false,
-				infoGraphic: _infographic, //"plugins/restoration_explorer/RestorationExplorer_c.jpg",
+				infoGraphic: _infographic, //"plugins/caribbean-restoration-explorer/RestorationExplorer_c.jpg",
 				//height: _config.pluginHeight,
 				size:'custom',
 				width: _config.pluginWidth,
